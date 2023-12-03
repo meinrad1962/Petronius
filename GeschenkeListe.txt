@@ -5,3 +5,4 @@
 - so nun mal sehen wie das da funktioniert
 - eine weitere Version um zu sehen, ob das so funktioniert wie erklärt
 - benötige einen weiteren Versuch ... im Grunde passts allerdings schein git-status im KrakeTerminal nicht anzuzeigen, dass im GitRepo neue Versionen sind
+- weil ich wirklich wissen will ...!
