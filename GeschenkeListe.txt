@@ -3,3 +3,4 @@
 
 - mal sehen, was mir noch einfällt
 - so nun mal sehen wie das da funktioniert
+- eine weitere Version um zu sehen, ob das so funktioniert wie erklärt
